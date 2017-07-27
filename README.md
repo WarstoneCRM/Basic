@@ -1,0 +1,2 @@
+# Basic
+Warstone CRM Basic
